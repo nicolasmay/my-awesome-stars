@@ -7,19 +7,27 @@
 
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [javascript](#javascript)
 - [microsoft](#microsoft)
 - [node](#node)
 - [others](#others)
+- [ruby](#ruby)
 - [server](#server)
 - [windows](#windows)
 
 ## awesome 
 
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## awesome-list 
 
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## javascript 
+
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
 ## microsoft 
 
@@ -35,6 +43,10 @@
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
 - [nowisf/POM](https://github.com/nowisf/POM) - 
+
+## ruby 
+
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
 ## server 
 
