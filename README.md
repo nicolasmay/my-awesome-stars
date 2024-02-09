@@ -32,7 +32,6 @@
 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
-- [nowisf/POM](https://github.com/nowisf/POM) - 
 
 
 ## License
