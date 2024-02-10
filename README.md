@@ -6,7 +6,10 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [C#](#c#)
 - [Dart](#dart)
+- [JavaScript](#javascript)
+- [MDX](#mdx)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -16,9 +19,21 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
+## C# # 
+
+- [molenzwiebel/Deceive](https://github.com/molenzwiebel/Deceive) - 🎩 Appear offline for the League of Legends client.
+
 ## Dart 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
+## JavaScript 
+
+- [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
+
+## MDX 
+
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 
 ## Others 
 
@@ -35,6 +50,7 @@
 
 ## TypeScript 
 
+- [juanlatorre/fast-app](https://github.com/juanlatorre/fast-app) - CLI to create an app with a lot of templates
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
 - [nowisf/POM](https://github.com/nowisf/POM) - 
