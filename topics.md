@@ -8,16 +8,20 @@
 - [android](#android)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [documentation](#documentation)
 - [flutter](#flutter)
+- [game](#game)
 - [javascript](#javascript)
 - [linux](#linux)
 - [macos](#macos)
 - [microsoft](#microsoft)
+- [mobile](#mobile)
 - [music](#music)
 - [node](#node)
 - [others](#others)
 - [ruby](#ruby)
 - [server](#server)
+- [website](#website)
 - [windows](#windows)
 
 ## android 
@@ -34,9 +38,17 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
+## documentation 
+
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
+
 ## flutter 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
+## game 
+
+- [molenzwiebel/Deceive](https://github.com/molenzwiebel/Deceive) - 🎩 Appear offline for the League of Legends client.
 
 ## javascript 
 
@@ -54,6 +66,10 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
+## mobile 
+
+- [molenzwiebel/Deceive](https://github.com/molenzwiebel/Deceive) - 🎩 Appear offline for the League of Legends client.
+
 ## music 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -64,6 +80,8 @@
 
 ## others 
 
+- [TodePond/Arroost](https://github.com/TodePond/Arroost) - arrows in arrows in arrows
+- [juanlatorre/fast-app](https://github.com/juanlatorre/fast-app) - CLI to create an app with a lot of templates
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
@@ -76,6 +94,10 @@
 ## server 
 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+
+## website 
+
+- [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 
 ## windows 
 
